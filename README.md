@@ -1,5 +1,5 @@
 # go-common
-Common Go utilities used by various TRON projects.
+Common Go utilities used by various Bittorrent projects.
 
 ## Notes
 
