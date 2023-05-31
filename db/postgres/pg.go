@@ -5,9 +5,9 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/tron-us/go-common/v2/constant"
-	env "github.com/tron-us/go-common/v2/env/db"
-	"github.com/tron-us/go-common/v2/log"
+	"github.com/bittorrent/go-common/v2/constant"
+	env "github.com/bittorrent/go-common/v2/env/db"
+	"github.com/bittorrent/go-common/v2/log"
 
 	"github.com/go-pg/migrations/v7"
 	"github.com/go-pg/pg/v9"

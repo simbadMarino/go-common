@@ -4,8 +4,8 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/tron-us/go-common/v2/constant"
-	"github.com/tron-us/go-common/v2/env"
+	"github.com/bittorrent/go-common/v2/constant"
+	"github.com/bittorrent/go-common/v2/env"
 
 	"go.uber.org/zap"
 	"go.uber.org/zap/zapcore"
