@@ -1,4 +1,4 @@
-module github.com/bittorrent/go-common/v2
+module github.com/simbadMarino/go-common/v2
 
 go 1.13
 

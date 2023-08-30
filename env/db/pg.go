@@ -5,9 +5,9 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/bittorrent/go-common/v2/constant"
-	"github.com/bittorrent/go-common/v2/env"
-	"github.com/bittorrent/go-common/v2/log"
+	"github.com/simbadMarino/go-common/v2/constant"
+	"github.com/simbadMarino/go-common/v2/env"
+	"github.com/simbadMarino/go-common/v2/log"
 
 	"go.uber.org/zap"
 )
