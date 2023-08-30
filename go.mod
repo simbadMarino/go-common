@@ -6,7 +6,6 @@ require (
 	github.com/btcsuite/btcutil v1.0.2
 	github.com/go-pg/migrations/v7 v7.1.11
 	github.com/go-pg/pg/v9 v9.2.0
-	//github.com/go-redis/redis/v7 v7.4.1
 	github.com/grpc-ecosystem/go-grpc-middleware v1.2.2
 	github.com/grpc-ecosystem/go-grpc-prometheus v1.2.0
 	github.com/ip2location/ip2location-go/v9 v9.0.0
