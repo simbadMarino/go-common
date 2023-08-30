@@ -2,9 +2,9 @@ package redis
 
 import (
 	"fmt"
-	redis "github.com/go-redis/redis/v7"
+//	redis "github.com/go-redis/redis/v7"
 )
-
+/*
 type TGRDDB struct {
 	rd *redis.Client
 }
@@ -37,4 +37,4 @@ func CheckRedisConnection(connection *TGRDDB) error {
 		return fmt.Errorf("Redis respond error %s %s", host, port)
 	}
 	return err
-}
+}*/
