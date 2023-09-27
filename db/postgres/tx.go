@@ -4,7 +4,7 @@ import (
 	"context"
 	"time"
 
-	"github.com/simbadMarino/go-common/v2/constant"
+	"github.com/bittorrent/go-common/v2/constant"
 
 	"github.com/go-pg/pg/v9"
 	"github.com/go-pg/pg/v9/orm"

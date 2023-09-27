@@ -6,7 +6,7 @@ import (
 	"google.golang.org/grpc"
 	"runtime/debug"
 
-	"github.com/simbadMarino/go-common/v2/log"
+	"github.com/bittorrent/go-common/v2/log"
 
 	grpc_middleware "github.com/grpc-ecosystem/go-grpc-middleware"
 	grpc_recovery "github.com/grpc-ecosystem/go-grpc-middleware/recovery"
